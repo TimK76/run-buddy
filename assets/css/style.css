@@ -83,7 +83,7 @@ section {
     justify-content: center;
     flex-wrap: wrap;
     align-items: flex-start;
-    background-image: url("../images/hero-bg.jpg");
+    background-image: url("../images/hero-bgflip.jpg");
     background-size: cover;
     background-position: center ;
     
